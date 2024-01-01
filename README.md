@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
-## Available Scripts
+### You can also visit site by clicking the link below :
+https://shan17161.github.io/CarLoanEMICalculator/
+
+### Available Scripts
 
 In the project directory, you can run:
 
